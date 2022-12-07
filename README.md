@@ -1,2 +1,2 @@
 # Milk_Production_Prediction
-Prediction of Milk Production using the dataset of multiple years 
+Prediction of milk production using the dataset from multiple years
